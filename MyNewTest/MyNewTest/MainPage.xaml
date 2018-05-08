@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:MyNewTest"
              x:Class="MyNewTest.MainPage">
 
-	<Label Text="Welcome to Xamarin.Forms! !  new Changes love" 
+	<Label Text="Welcome to Xamarin.Forms! !  new Changes love final" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
